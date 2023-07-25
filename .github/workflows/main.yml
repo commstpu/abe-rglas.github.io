@@ -25,4 +25,5 @@ jobs:
           PAGES_BRANCH: master
           BUILD_DIR: .
           TOKEN: ${{ secrets.PUBLIC_TOKEN }}
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
           REPOSITORY: abe-rglas/abe-rglas.github.io
