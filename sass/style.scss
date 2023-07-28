@@ -1,0 +1,51 @@
+@use "variables" as v;
+
+html {
+  font-family: v.$basefont;
+}
+
+ul {
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  background-color: v.$ourblue;
+  list-style-type: none;
+}
+
+p {
+  font-family: Arial;
+}
+
+li a{
+  float: right;
+  width: 160px;
+  padding: 8px 2px;
+  text-align: center;
+  text-decoration: none;
+  border-color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: v.$ourtext;
+}
+
+li a:hover{
+  background-color: v.$ourpink;
+}
+
+#logo{
+  color: v.$ourpink;
+  border-left: none;
+  font-family: Tahoma;
+  float: left;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+}
