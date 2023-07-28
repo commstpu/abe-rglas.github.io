@@ -1,5 +1,6 @@
 +++
 title = "Clinic ELNA"
+template = "page.html"
 +++
 
 # Clinic ELNA
