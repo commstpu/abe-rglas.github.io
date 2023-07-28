@@ -1,5 +1,6 @@
 +++
 title = "Clinique Medicale"
+template = "page.html"
 +++
 
 # Clinic One
