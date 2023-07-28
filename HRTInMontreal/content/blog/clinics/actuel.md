@@ -1,5 +1,6 @@
 +++
 title = "Clinique l'Actuel"
+template = "page.html"
 +++
 
 # Clinique l'Actuel
