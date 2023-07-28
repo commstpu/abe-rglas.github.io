@@ -1,5 +1,6 @@
 +++
 title = "Clinic One"
+template= "page.html"
 +++
 
 # Clinic One
