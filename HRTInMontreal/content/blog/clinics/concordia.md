@@ -1,5 +1,6 @@
 +++
 title = "Concordia Health Services"
+template = "page.html"
 +++
 
 # Concordia Health Services
