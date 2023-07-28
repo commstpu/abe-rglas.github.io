@@ -1,5 +1,6 @@
 +++
 title = "St Justine"
+template = "page.html"
 +++
 
 # St Justine
