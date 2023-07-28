@@ -1,6 +1,7 @@
 +++
 title = "Doctor One"
 date = 2023-07-13
+template = "page.html"
 +++
 
 # Doctor One
