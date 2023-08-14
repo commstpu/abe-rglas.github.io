@@ -1,0 +1,27 @@
++++
+draft = true
++++
+
+html {
+  font-family: v.$basefont;
+}
+
+#header{
+  background-color: v.$ourblue;
+}
+
+#header ul{
+  list-style-type: none;
+}
+
+#table {
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: v.$ourtext;
+}
+
