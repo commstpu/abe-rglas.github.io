@@ -19,6 +19,7 @@
 </div>
 <div id = "table">
   {% block content %}
+  {{ content.section | safe }}
   {% endblock content %}
 </div>
 </body>
