@@ -1,6 +1,7 @@
 +++
 date = 2023-07-05
 template = "index.html"
+title = "HRT In Montreal"
 +++
 
 Below is a list of doctors in Montreal who have prescribed Hormone Replacement Therapy (HRT) before. Our list is informed by patient testimony, and we don't have the ability to guarantee the truth of claims made by participants, although we have checked to make sure the practitioners listed here do exist. This site was made by the Trans Patient Union at McGill. Our site is only one part of a larger effort to compile an exhaustive resource on how to access gender-affirming care in Quebec - that project, with its larger scope, is being tackled by the [Community-University Research Exchange](http://www.qpirgconcordia.org/2012/09/cure-2/) It is in the works and will be linked when published. We'd like to thank all the community organizations in Montreal and beyond who have given resources, feedback, and time.
