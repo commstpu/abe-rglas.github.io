@@ -8,8 +8,8 @@ Below is a list of doctors in Montreal who have prescribed Hormone Replacement T
 
 <!-- Here's a sample template for a doctor. 
 | Dr. Firstname Lastname, position | Clinic | *Not enough data* | *Not enough data*  | *Not enough data*  | *Not enough data for a summary - see doctor page for individual experiences in the meantime.* | *Not enough data* | *Not enough data* | Month Day, Year |  
---> 
-
+<table summary = "This table includes the list of medical providers, their associated clinics, and summarized information about how they prescribe HRT">
+-->
 | Doctor Name and title | Associated Clinic | Accepted Insurances | Attitude of Doctor | Pre-Prescription Requirements | Prescription Practices | Monitoring | How to Contact | Last Updated |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | [Dr. Pierre Côté, general practitioner](blog/doctors/cote.md) | [Clinique Medicale Urbain](blog/clinics/medicale.md) | *Not enough data* | One patient reported that Dr.Côté is open to answering questions. | One patient reported that Dr. Côté required a letter from a psychologist, and encouraged the patient to get his eggs frozen. The patient was able to get HRT with one appointment.  | *Not enough data for a summary - see doctor page for individual experiences in the meantime.* | *Not enough data* | *Not enough data* | August 9, 2023 |  
