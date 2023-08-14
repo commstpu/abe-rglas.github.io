@@ -2,7 +2,7 @@
 title = "Clinique Medicale"
 +++
 
-# Clinic One
+# Clinique Medicale
 ## Accepted Insurances
 ## Waitlist Times
 ## Clinic Attitude
