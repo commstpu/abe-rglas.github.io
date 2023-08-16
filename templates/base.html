@@ -16,6 +16,16 @@
       </ul>
   </div>
         {% block content %} {% endblock %}
+<div id = "last modified">
+  <p>Page last modified:</p>
+  <p id="date"></p>
+  
+  <script>
+  let text = document.lastModified;
+  document.getElementById("date").innerHTML = text;
+  </script>
+</div>
+
 </body>
 
 </html>
