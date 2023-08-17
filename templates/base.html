@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <title>{% block title %}{% endblock title %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no" />
-  <link rel="stylesheet" href =  "{{ get_url(path="style.css") }}"/>
+  <link rel="stylesheet" href =  "sass/style.scss"/>
 </head>
 <body>
   <div id = "header"> 
     <ul>
-      <li><a href = "contact-us.md">Contact Us</a></li>
+      <li><a href = "blog/contact-us.md">Contact Us</a></li>
       <li><a>Français</a></li>
       <li id="logo"><a href = "{{ get_url(path="@/_index.md") }}">HRT In Montreal </a></li>
       </ul>
