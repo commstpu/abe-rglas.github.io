@@ -3,12 +3,13 @@
 html, body {
   font-family: v.$basefont, sans-serif;
   border: none;
+  margin: 0;
   background: white;
 }
 
 p {
   line-height: 125%;
-  margin: 2em;
+  margin: 1em;
 }
 
 #header {
