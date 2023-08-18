@@ -8,12 +8,13 @@ html, body {
 
 p {
   line-height: 125%;
-  margin: 4em;
+  margin: 2em;
 }
 
 #header {
   background-color: v.$ourblue;
   margin: 0;
+  padding: 0;
 }
 
 #header ul {
@@ -59,6 +60,6 @@ h2 {
 	font-size: 75%;
   text-align: center;
   white-space: nowrap;
-  line-height: 0.2;
+  line-height: 0;
 }
 
