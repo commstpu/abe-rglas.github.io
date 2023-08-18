@@ -30,6 +30,7 @@ p {
   color: white;
   padding: 20px;
   text-decoration: none;
+  font-family: v.$headerfont;
 }
 
 #header a:hover{
@@ -57,10 +58,17 @@ h2 {
   color: v.$ourtext;
 }
 
+#footer {
+  background-color: v.$ourblue;
+  margin: 0;
+  padding: 0;
+}
+
 #footer p{
-	font-size: 75%;
+  font-size: 75%;
   text-align: center;
   white-space: nowrap;
   line-height: 0;
+  font-family: v.$headerfont;
 }
 
