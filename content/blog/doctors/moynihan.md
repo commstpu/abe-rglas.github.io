@@ -6,7 +6,7 @@ template = "page.html"
 
 # Dr. Patrick Moynihan
 ## Associated Clinic
-[The Meraki Centre](@\clinics\urbain.md)
+[The Meraki Centre](@\clinics\meraki.md)
 ## Attitude of Doctor
 ## Pre-Prescription Requirements
 ## Prescription Practices
