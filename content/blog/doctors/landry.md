@@ -7,7 +7,7 @@ template = "page.html"
 # Dr. Landry
 Dr. Landry is a private doctor.
 ## Associated Clinic
-[Clinic ELNA](@/blog/clinics/ELNA)
+[Clinic ELNA](@/blog/clinics/elna.md)
 ## Pre-Prescription Requirements
 One patient was given an informed consent sheet to look at before the appointment, and was told to put a star next to anything he had concerns about. One of the items on the sheet was that you open yourself up to harassment by transitioning.
 
