@@ -1,5 +1,5 @@
 +++
-title = "Clinic ELNA"
+title = "ELNA"
 +++
 
 # Clinic ELNA
