@@ -6,7 +6,7 @@ template = "page.html"
 
 # Dr. Rachel Scott
 ## Associated Clinic
-[Clinic One](...\clinics\clinics-template.md)
+[Sainte Justine Hospital](@/blog/clinics/st-justine.md)
 ## Attitude of Doctor
 ## Pre-Prescription Requirements
 ## Prescription Practices
