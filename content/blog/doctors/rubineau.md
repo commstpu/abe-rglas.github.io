@@ -1,12 +1,12 @@
 +++
-title = "Dr Rubineau"
+title = "Dr. Rubineau"
 date = 2023-07-13
 template = "page.html"
 +++
 
-# Dr A.J. Rubineau
+# Dr. A.J. Rubineau
 ## Associated Clinic
-[Clinic One](...\clinics\clinics-template.md)
+[Concordia Health Services](@/blog/clinics/concordia.md)
 ## Attitude of Doctor
 ## Pre-Prescription Requirements
 ## Prescription Practices
