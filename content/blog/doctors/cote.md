@@ -6,7 +6,7 @@ template = "page.html"
 
 # Dr. Pierre Côté
 ## Associated Clinic
-[Clinic One](...\clinics\clinics-template.md)
+[Urban Medical Clinic of Quartier Latin](@/blog/clinics/urbain.md)
 ## Attitude of Doctor
 ## Pre-Prescription Requirements
 ## Prescription Practices
