@@ -5,7 +5,7 @@ template = "page.html"
 
 # Dr. Antoine Cloutier-Blais
 ## Associated Clinic
-[L'Agora Medical Clinic](@/clinics/agora.md)
+[L'Agora Medical Clinic](@/blog/clinics/agora.md)
 ## Attitude of Doctor
 ## Pre-Prescription Requirements
 ## Prescription Practices
