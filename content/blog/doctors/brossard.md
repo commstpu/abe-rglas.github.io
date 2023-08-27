@@ -6,7 +6,7 @@ template = "page.html"
 
 # Dr. Jean-Hugues Brossard
 ## Associated Clinic
-[Endocrinology Clinic of Montreal](@/clinics/endocrinologie.md)
+[Endocrinology Clinic of Montreal](@/blog/clinics/endocrinologie.md)
 ## Attitude of Doctor
 ## Pre-Prescription Requirements
 ## Prescription Practices
