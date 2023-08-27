@@ -1,12 +1,11 @@
 +++
 title = "Dr. Andrée Boucher"
-date = 2023-07-13
 template = "page.html"
 +++
 
 # Dr. Andrée Boucher
 ## Associated Clinic
-[Endocrinology Clinic of Montreal](@/clinics/endocrinologie.md)
+[Endocrinology Clinic of Montreal](@/blog/clinics/endocrinologie.md)
 ## Attitude of Doctor
 ## Pre-Prescription Requirements
 ## Prescription Practices
