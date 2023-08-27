@@ -9,9 +9,9 @@
 <body>
   <div id = "header"> 
     <ul>
-      <li><a href = "/blog/contact-us.md">Contact Us</a></li>
-      <li><a>Français</a></li>
-      <li id="logo"><a href = "sass/style.scss">HRT In Montreal </a></li>
+      <li><a href = "{{ get_url(path="@/blog/contact-us.md") }}">Contact Us</a></li>
+      <li><a href = "{{ get_url(path="@/blog/francais.md") }}">Français</a></li>
+      <li id="logo"><a href = "{{ get_url(path="@/_index.md") }}">HRT In Montreal </a></li>
       </ul>
   </div>
 <div id = "intro paragraph">
