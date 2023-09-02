@@ -9,11 +9,12 @@ template = "page.html"
 [ClLSC de côte-des-neiges](...\clinics\cote-des-neiges)
 ## Attitude of Doctor
 ## Pre-Prescription Requirements
-One respondent reported **not needing a gender dysphoria diagnosis.**
+Respondent One (note, a minor when she started HRT):
+* She did **not need a gender dysphoria diagnosis.**
 ## Prescription Practices
 According to what survey and interview respondents have reported -
 
-Patient One (Note: a minor when she started HRT):
+Respondent One (note, a minor when she started HRT):
 * She needed about 3 appointments before receiving blockers, and 3 more before receiving estrogen
 * The doctor required a genital exam
 * She had multiple baseline blood test
@@ -22,6 +23,6 @@ Patient One (Note: a minor when she started HRT):
 * The doctor was very cautious, and said going too fast would be dangerous because high estrogen levels convert to testosterone in the body
 
 ## Monitoring
-Patient One (Note: a minor when she started HRT):
+Respondent One (Note, a minor when she started HRT):
 * The doctor continued with breast exams
 * The doctor made comments about how her thigh looks and how she was developing 
