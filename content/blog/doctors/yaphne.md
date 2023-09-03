@@ -9,21 +9,13 @@ template = "page.html"
 [L'Actuel](@/blog/clinics/actuel.md)
 ## Attitude of Doctor
 ## Pre-Prescription Requirements
-Respondent One (Note: She was just getting a prescription renewed):
-* He **did not need a gender dysphoria diagnosis.**
+* 2 respondents **did not need a gender dysphoria diagnosis.**
+* 1 respondent was told about changes and side effects
 
-Respondent Two:
-* They were told about changes and side effects
-* They **did not need a gender dysphoria diagnosis.**
 ## Prescription Practices
-Respondent One (Note: She was just getting a prescription renewed):
-* He came to Dr. Yaphne taking 2.5g of testosterone via gel, and increased to 5g because his levels were in the lower half of the male range, and Dr. Yaphne said he probably wouldn't get further results without being in the upper half of the male range
+* 1 respondent came to Dr. Yaphne taking 2.5g of testosterone via gel, and increased to 5g because their levels were in the lower half of the male range, and Dr. Yaphne said they probably wouldn't get further results without being in the upper half of the male range
+* 1 respondent started on 0.5mg of testosterone via intramuscular injections, then increased to 0.6mg
 
-Respondent Two:
-* They started on 0.5mg of testosterone via intramuscular injections, then increased to 0.6mg
 ## Monitoring
-Respondent One:
-* He will get a blood test 3 months after upping the dose
+* 2 respondents will get blood tests **3 months** after changing their dose
 
-Respondent Two:
-* They get blood tests every 3 months
